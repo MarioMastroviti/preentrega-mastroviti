@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    gap: 2rem;
+    
+    
+}
+li{
+    display: inline;
+    margin: 1rem;
+    cursor: pointer;
+    font-weight: bold;
+}
